@@ -24,10 +24,10 @@ st.markdown("""
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact Us</a>
+          <a class="nav-link" href="https://adi1042003.github.io/mywebpage/index.html">Contact Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">GitHub</a>
+          <a class="nav-link" href="https://github.com/Adi1042003">GitHub</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">About Project</a>
