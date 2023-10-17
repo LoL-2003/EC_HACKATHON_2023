@@ -42,7 +42,7 @@ hide_st_style = """
             <style>
             #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
-            footer:after {content:'Made with ❤️ by ADITYA PURI';visibility: visible;display: block;}
+            footer:after {content:'Made with ❤️ by FARAAZ';visibility: visible;display: block;}
             .st-emotion-cache-cio0dv {
             padding-left: 20%;
             padding-right: 1rem;
